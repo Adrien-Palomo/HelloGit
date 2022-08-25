@@ -12,6 +12,8 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("Adrien Palomo\n");
 		System.out.println("Computer Science\n");
+		System.out.println("Trayson Combs\n");
+		System.out.println("Computer Science\n");
 	}
 
 }
